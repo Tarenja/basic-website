@@ -1,0 +1,67 @@
+body {
+	background-color: black;
+	background-image: url("michal-grosicki-216658.jpg");
+	background-size: cover;
+	color: rgb(221,221,221);
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#NYCDA {
+	color: rgb(225,225,225);
+}
+#deviantart {
+	color: rgb(225,225,225);
+}
+#picture {
+	margin-top: 10px;
+}
+
+.blockoftext {
+	background-color: rgba(0,0,0,0.7);
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	text-align: center;
+}
+
+#contact {
+	text-align: center;
+	margin: auto;
+	width: 60%;
+	height: 60%;
+}
+
+#firework {
+	text-align: center;
+	margin: auto;
+	width: 60%;
+	height: 60%;
+}
+
+ul.nav{
+	 list-style: none;
+	 padding: 0; 
+	 text-align: center;
+}
+
+ul.nav li {
+	 display: inline; 
+	 font-size: 40px;
+}
+
+.button{
+	 padding: 10px 12px;
+	 border: 1px solid rgb(221,221,221);
+	 color: grey;
+	 background-color: rgb(225,225,225);
+	 text-decoration: none;
+	 display: inline-block;
+	 border-radius: 5px;
+	 text-align: center;
+	 align-items: center;
+}
+
+.button:hover {
+ 	background-color: rgb(205,205,205);
+
+}
+
