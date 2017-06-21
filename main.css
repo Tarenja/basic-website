@@ -13,6 +13,10 @@ body {
 }
 #picture {
 	margin-top: 10px;
+	text-align: center;
+	margin: auto;
+	width: 60%;
+	height: 60%;
 }
 
 .blockoftext {
